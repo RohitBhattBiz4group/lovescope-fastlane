@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039845300146",
+    "project_id": "lovescope-226b4",
+    "storage_bucket": "lovescope-226b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039845300146:android:a28aa4acc299a02206f6ab",
+        "android_client_info": {
+          "package_name": "com.lovescope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaBkwuG94-LJkWViXWNcBVFmNA-thEEhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
