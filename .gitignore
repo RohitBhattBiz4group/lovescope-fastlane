@@ -39,6 +39,7 @@ package-lock.json
 
 # fastlane
 android/fastlane/firebase_key.json
+android/fastlane/.env
 ios/fastlane/report.xml
 ios/fastlane/Preview.html
 ios/fastlane/screenshots
